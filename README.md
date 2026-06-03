@@ -20,16 +20,6 @@
 
 A habit tracker, goal manager, and life vision board — unified. The AI talks to you like a friend who genuinely cares.
 
-| Feature | Status |
-|---|---|
-| Daily Checklist + Habits | ✅ Built |
-| Short Goals + Life Vision Board | ✅ Built |
-| Pomodoro Timer | ✅ Built |
-| AI Chat with Memory System | ✅ Built |
-| Doom Meter + Stakes Engine | ✅ Built |
-| Bad Day Protocol + Relapse Recovery | ✅ Built |
-| Level System | 🚧 v2 |
-| Weekly Identity Report | 🚧 v2 |
 
 ![](https://img.shields.io/badge/Claude_API-Powered-FF6B1A?style=flat-square)
 ![](https://img.shields.io/badge/Single-HTML_File-161616?style=flat-square&labelColor=FF6B1A)
