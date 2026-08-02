@@ -48,22 +48,7 @@ The AI talks to you like a friend who genuinely cares.
 
 <br>
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Praveen-2595&show_icons=true&locale=en&theme=dark&title_color=FF6B1A&icon_color=FF6B1A&text_color=e6e6e6&bg_color=0D0D0D&border_color=FF6B1A&hide_border=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-2595&layout=compact&theme=dark&title_color=FF6B1A&text_color=e6e6e6&bg_color=0D0D0D&border_color=FF6B1A&hide_border=false" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Praveen-2595&theme=dark&ring=FF6B1A&fire=FF6B1A&currStreakLabel=FF6B1A&sideLabels=e6e6e6&currStreakNum=e6e6e6&sideNums=e6e6e6&dates=8c8c8c&background=0D0D0D&border=FF6B1A&hide_border=false" />
-
-</div>
-
-> **Note:** the old `github-readme-streak-stats.herokuapp.com` badge is dead — Heroku shut down its free dyno tier in Nov 2022, so that domain no longer resolves. Swapped it for `streak-stats.demolab.com`, the actively maintained community fork of the same project.
-
-<br>
 
 ## 🌐 Connect
 
