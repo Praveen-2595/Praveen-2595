@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B1A&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Praveen+%F0%9F%94%A5;1st+Year+AIML+Student;Solo+Dev+%C2%B7+Multiple+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B1A&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Praveen+%F0%9F%94%A5;2st+Year+AIML+Student;Solo+Dev+%C2%B7+Multiple+Projects" alt="Typing SVG" />
 
 ![](https://img.shields.io/badge/AIML-Student-FF6B1A?style=for-the-badge&labelColor=0D0D0D&logoColor=white)
 ![](https://img.shields.io/badge/Open_To-Collabs-FF6B1A?style=for-the-badge&labelColor=0D0D0D&logoColor=white)
