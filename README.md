@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### [ORBIT](https://github.com/Praveen-2595/Orbit) — Claude-powered life companion
+### [ORBIT](https://github.com/Praveen-2595/Orbit) — Ai -powered life companion
 *Your life. In motion. All aligned.*
 
 A habit tracker, goal manager, and life vision board — unified.
