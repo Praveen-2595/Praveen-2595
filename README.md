@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B1A&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Praveen+%F0%9F%94%A5;1st+Year+AIML+Student;Building+with+Claude+API+%26+Python;Solo+Dev+%C2%B7+Multiple+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B1A&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Praveen+%F0%9F%94%A5;1st+Year+AIML+Student;Solo+Dev+%C2%B7+Multiple+Projects" alt="Typing SVG" />
 
 ![](https://img.shields.io/badge/AIML-Student-FF6B1A?style=for-the-badge&labelColor=0D0D0D&logoColor=white)
 ![](https://img.shields.io/badge/Open_To-Collabs-FF6B1A?style=for-the-badge&labelColor=0D0D0D&logoColor=white)
@@ -25,7 +25,7 @@ The AI talks to you like a friend who genuinely cares.
 ![](https://img.shields.io/badge/Deploy-Vercel_Ready-FF6B1A?style=flat-square&labelColor=0D0D0D)
 ![](https://img.shields.io/badge/Version-v2.0_May_2026-FF6B1A?style=flat-square&labelColor=0D0D0D)
 
-**[🔗 Live Demo](https://orbit-black.vercel.app)** &nbsp;·&nbsp; **[📂 Repo](https://github.com/Praveen-2595/Orbit)**
+**[🔗 Live Demo](https://tryorbit.one)** &nbsp;·&nbsp; **[📂 Repo](https://github.com/Praveen-2595/Orbit)**
 
 </div>
 
@@ -78,5 +78,5 @@ The AI talks to you like a friend who genuinely cares.
 <br>
 
 <div align="center">
-  <sub>Built with 🔥 and Claude API · praveen-2595</sub>
+  <sub>Built with 🔥 · praveen-2595</sub>
 </div>
