@@ -54,7 +54,7 @@ The AI talks to you like a friend who genuinely cares.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-praveen_yadav-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF6B1A)](https://linkedin.com/in/praveen-yadav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-praveen_yadav-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF6B1A)](linkedin.com/in/praveen-yadav-79060437a)
 [![Kaggle](https://img.shields.io/badge/Kaggle-praveenyadav25-0D0D0D?style=for-the-badge&logo=kaggle&logoColor=FF6B1A)](https://kaggle.com/praveenyadav25)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Czdcp7owao-0D0D0D?style=for-the-badge&logo=leetcode&logoColor=FF6B1A)](https://www.leetcode.com/Czdcp7owao)
 
